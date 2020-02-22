@@ -9,7 +9,7 @@
   * Nate Al-Najjar
 
 ## Overview
-All members of our group have an interest in public policy and social metrics – that is why the following two datasets stood out when we reviewed Kaggle: (owner)’s analysis of life expectancy by country, and (owner’s) measurement of each country’s “economic freedom index"*
+All members of our group have an interest in public policy and social metrics – that is why the following two datasets stood out when we reviewed Kaggle: World Bank’s analysis of life expectancy by country, and Fraser Institute's measurement of each country’s “economic freedom index"*
 
 ISO Codes were developed by the International Organization for Standardization, affiliated with the United Nations, to provide exact descriptors of countries and their subdivisions. This standardization is incredibly useful for data manipulation across sources and social metrics. 
 
